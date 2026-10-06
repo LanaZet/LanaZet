@@ -1,18 +1,18 @@
 ## Hi, I am Svetlana
 
-I am a mobile software engineer focused on Kotlin Multiplatform, Compose Multiplatform and application architecture.
+I am a software engineer with experience in JavaScript and cross-platform mobile development. I am currently expanding my experience with Kotlin Multiplatform, Compose Multiplatform and mobile application architecture.
 
 ### Featured project
 
-**[Glagolitsa](https://github.com/LanaZet/glagolitsa-mobile)** is an independently developed cross-platform messenger with Kotlin Multiplatform clients and a self-hosted Go backend.
+[**Glagolitsa**](https://github.com/LanaZet/glagolitsa-mobile) is an independently developed cross-platform messenger with Kotlin Multiplatform clients and a self-hosted Go backend.
 
-The project includes end-to-end encrypted direct and private-group messaging, device and key management, Android voice calling, Docker-based infrastructure, automated tests, and documented security boundaries.
+Through this project, I am exploring end-to-end encrypted messaging, device and key management, Android voice calling, Docker-based infrastructure, automated testing and clearly documented security boundaries.
 
 - [Source code and documentation](https://github.com/LanaZet/glagolitsa-mobile)
-- [Independent Zenodo archive](https://doi.org/10.5281/zenodo.23186435)
+- [Permanent Zenodo archive](https://doi.org/10.5281/zenodo.23186435)
 
-### Technical focus
+### Technical interests
 
-Kotlin · Kotlin Multiplatform · Compose Multiplatform · Android · Go · PostgreSQL · WebRTC
+JavaScript · Cross-platform Mobile Development · Kotlin Multiplatform · Compose Multiplatform · Mobile Architecture · Go · PostgreSQL · WebRTC
 
-I am open to remote and international opportunities in Android, Kotlin Multiplatform and mobile platform engineering.
+I am interested in international collaboration and opportunities involving JavaScript, mobile development and cross-platform applications.
