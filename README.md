@@ -1,6 +1,6 @@
 ## Hi, I am Svetlana
 
-I am a software engineer with experience in JavaScript and cross-platform mobile development. I am currently expanding my experience with Kotlin Multiplatform, Compose Multiplatform and mobile application architecture.
+I am a software engineer with experience in JavaScript, C# and cross-platform mobile development. I am currently expanding my experience with Kotlin Multiplatform, Compose Multiplatform and mobile application architecture.
 
 ### Featured project
 
@@ -13,6 +13,6 @@ Through this project, I am exploring end-to-end encrypted messaging, device and 
 
 ### Technical interests
 
-JavaScript · Cross-platform Mobile Development · Kotlin Multiplatform · Compose Multiplatform · Mobile Architecture · Go · PostgreSQL · WebRTC
+JavaScript · C# · Cross-platform Mobile Development · Kotlin Multiplatform · Compose Multiplatform · Mobile Architecture · Go · PostgreSQL · WebRTC
 
-I am interested in international collaboration and opportunities involving JavaScript, mobile development and cross-platform applications.
+I am interested in international collaboration and opportunities involving JavaScript, C#, mobile development and cross-platform applications.
